@@ -30,7 +30,7 @@ mkdir [my build dir]
 cd [my build dir]
 
 setup mrb
-export MRB_PRODUCT=larsoft
+export MRB_PROJECT=larsoft
 mrb newDev
 source localProducts-xxxxxx/setup
 cd srcs
